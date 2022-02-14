@@ -1,0 +1,5 @@
+# pyflate-lib
+A port of the pyflate tool (pur python gzip/bzip) as a python3 library.
+
+References:
+https://github.com/pfalcon/pyflate
